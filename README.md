@@ -3,7 +3,7 @@
 WSL2 is compatible with the Home, Pro, or Server editions of Windows but not
 Windows 10 S (although you can often upgrade to the Home edition for free).
 
-## Check That your Windows system is Compatible with Flatiron School’s Requirements
+## Check That your Windows system is Compatible with Academy Xi’s Requirements
 
 When working on software, your computer and the software you’re using must be
 compatible. In this step, we’ll ensure that you are able to install all the
@@ -51,10 +51,10 @@ continue below. Otherwise, reach out to your instructor for next steps.
 
 <!-- TODO: Come back to these instructions to point to WSL 1 -->
 
-## Check That Your Windows System has Enough Space for Flatiron School’s Requirements
+## Check That Your Windows System has Enough Space for Academy Xi’s Requirements
 
 The programs that we’ll be installing during environment setup and all of the
-work you’ll do with Flatiron School will need at least 1 GB of free disk space.
+work you’ll do with Academy Xi will need at least 1 GB of free disk space.
 Follow the steps below to ensure that you have enough disk space to install all
 the programs needed during the environment setup.
 
@@ -76,7 +76,7 @@ Otherwise, use the [Disk Cleanup utility][] to free more space on your computer.
 [Disk Cleanup utility]: https://www.lifewire.com/free-drive-space-with-disk-cleanup-3506869
 ## Install Google Chrome
 
-Google Chrome is the browser that we will use for your Flatiron School Student
+Google Chrome is the browser that we will use for your Academy Xi Student
 Portal account and also for front-end web development. You are not required to
 use Google Chrome for personal work, but we highly encourage you to download
 it for access to your account and for development in the browser.
